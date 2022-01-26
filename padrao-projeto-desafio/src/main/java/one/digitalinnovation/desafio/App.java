@@ -1,10 +1,10 @@
 package one.digitalinnovation.desafio;
 
 
-import ifpr.pgua.eic.biblioteca.repositorios.Biblioteca;
-import ifpr.pgua.eic.biblioteca.telas.CadastroAutor;
-import ifpr.pgua.eic.biblioteca.telas.CadastroRevista;
-import ifpr.pgua.eic.biblioteca.telas.Listas;
+import one.digitalinnovation.desafio.repositorios.Biblioteca;
+import one.digitalinnovation.desafio.telas.CadastroAutor;
+import one.digitalinnovation.desafio.telas.CadastroRevista;
+import one.digitalinnovation.desafio.telas.Listas;
 import javafx.application.Application;
 import javafx.fxml.FXMLLoader;
 import javafx.geometry.Insets;

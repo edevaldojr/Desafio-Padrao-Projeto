@@ -1,11 +1,11 @@
-package one.digitalinnovation.repositorios;
+package one.digitalinnovation.desafio.repositorios;
 
 import java.util.ArrayList;
 
-import ifpr.pgua.eic.biblioteca.modelos.Autor;
-import ifpr.pgua.eic.biblioteca.modelos.ItemAcervo;
-import ifpr.pgua.eic.biblioteca.modelos.Livro;
-import ifpr.pgua.eic.biblioteca.modelos.Revista;
+import one.digitalinnovation.desafio.modelos.Autor;
+import one.digitalinnovation.desafio.modelos.ItemAcervo;
+import one.digitalinnovation.desafio.modelos.Livro;
+import one.digitalinnovation.desafio.Revista;
 
 public class Biblioteca {
     

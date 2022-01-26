@@ -1,6 +1,6 @@
 package one.digitalinnovation.desafio.telas;
 
-import ifpr.pgua.eic.biblioteca.repositorios.Biblioteca;
+import one.digitalinnovation.desafio.repositorios.Biblioteca;
 import javafx.fxml.FXML;
 import javafx.scene.control.Alert;
 import javafx.scene.control.ButtonType;

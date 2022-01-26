@@ -11,7 +11,7 @@
 <VBox xmlns="http://javafx.com/javafx"
       xmlns:fx="http://javafx.com/fxml"
       prefHeight="400.0" prefWidth="600.0" 
-      spacing="5.0" fx:controller="ifpr.pgua.eic.biblioteca.telas.CadastroAutor"
+      spacing="5.0" fx:controller="one.digitalinnovation.desafio.telas.CadastroAutor"
       stylesheets="@../css/estilo_cadastro_autor.css"
       >
 

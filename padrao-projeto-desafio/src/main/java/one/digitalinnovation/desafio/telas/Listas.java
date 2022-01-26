@@ -1,8 +1,8 @@
 package one.digitalinnovation.desafio.telas;
 
-import ifpr.pgua.eic.biblioteca.modelos.Autor;
-import ifpr.pgua.eic.biblioteca.modelos.ItemAcervo;
-import ifpr.pgua.eic.biblioteca.repositorios.Biblioteca;
+import one.digitalinnovation.desafio.modelos.Autor;
+import one.digitalinnovation.desafio.modelos.ItemAcervo;
+import one.digitalinnovation.desafio.repositorios.Biblioteca;
 import javafx.geometry.Insets;
 import javafx.scene.control.Label;
 import javafx.scene.control.ListView;
